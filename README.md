@@ -4,14 +4,24 @@ The goal of this project is to study and predict the right group of new customer
 _______________________________________________________________________________________________________________________________________________________
 
 # Data Description : 
-. ID Unique ID
-. Gender Gender of the customer
-. Ever_Married Marital status of the customer
-. Age Age of the customer
-. Graduated Is the customer a graduate?
-. Profession Profession of the customer
-. Work_Experience Work Experience in years
-. Spending_Score Spending score of the customer
-. Family_Size Number of family members for the customer (including the customer)
-. Var_1 Anonymised Category for the customer
-. Segmentation (target) Customer Segment of the customer
+. ID: Unique ID
+
+. Gender: Gender of the customer
+
+. Ever_Married: Marital status of the customer
+
+. Age: Age of the customer
+
+. Graduated :Is the customer a graduate?
+
+. Profession: Profession of the customer
+
+. Work_Experience: Work Experience in years
+
+. Spending_Score: Spending score of the customer
+
+. Family_Size: Number of family members for the customer (including the customer)
+
+. Var_1 Anonymised: Category for the customer
+
+. Segmentation (target): Customer Segment of the customer
